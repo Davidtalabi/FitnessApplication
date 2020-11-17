@@ -18,3 +18,15 @@ Fully functional fitness application, user creates an account and inputs their b
 
 # You may now view your user profile
 ![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/UserProfile.PNG)
+
+# Three different workout plans
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/BuildMuscle.PNG)
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/GainWeight.PNG)
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/LoseWeight.PNG)
+
+# Admin Profile
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/AdminProfile.PNG)
+
+# Admin Profile can view user statistics
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/UserStats1.PNG)
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/UserStats2.PNG)
