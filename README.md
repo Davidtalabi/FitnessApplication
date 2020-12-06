@@ -7,26 +7,29 @@ Fully functional fitness application, user creates an account and inputs their b
 
 
 # User must then create an account
-![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/CreateAccount.PNG)
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/CreateAccountLightMode.PNG)
 
+
+# Login page if the user has already created an account
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/LoginPageLightMode.PNG)
 
 
 
 # User must then input details about themselves
-![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/CreateWorkoutPlan.PNG)
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/CreateWorkoutPlanLightMode.PNG)
 
 
 # You may now view your user profile
-![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/UserProfile.PNG)
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/UserProfileLightMode.PNG)
 
-# Three different workout plans
+# Three different workout plans based on the users body measurements and goals
 ![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/BuildMuscle.PNG)
 ![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/GainWeight.PNG)
 ![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/LoseWeight.PNG)
 
 # Admin Profile
-![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/AdminProfile.PNG)
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/AdminProfileLightMode.PNG)
 
 # Admin Profile can view user statistics
-![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/UserStats1.PNG)
-![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/UserStats2.PNG)
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/UserStats1LightMode.PNG)
+![alt_text](https://github.com/Davidtalabi/SmartFitFitnessApplication/blob/main/AppScreenshots/UserStats2LightMode.PNG)
