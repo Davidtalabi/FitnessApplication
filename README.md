@@ -1,4 +1,4 @@
-# Elite Fit Fitness Application
+# Fitness Application
 Fully functional fitness application, user creates an account and inputs their body measurements, age, daily calorie intake, and body goals and is given a weekly workout plan based on the information they've input, no more need for a personal trainer! All user account info, workout plan info, and user statistics info is stored in an SQL Databse tables, scripts to create these tables are under the Database Scripts folder.
 
 # Landing Page
